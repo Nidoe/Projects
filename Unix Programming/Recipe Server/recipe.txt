@@ -1,0 +1,38 @@
+## Example Recipe File ###
+# Comment lines start with #
+<Recipe name='Mexican Layered Dip'>
+<ingrdients>
+1 bag tortilla chips
+1 lg. can refried beans
+1 (10-oz.) jar taco sauce
+1 lb. hamburger
+1 pkt. taco seasoning
+6 cups Mexican shreeded cheese
+</ingredients>
+<instructions>
+Brown hamburger, drain. Stir in taco seasoning. Set aside. In medium bowl, combine refried beans and taco sauce. Spread small amount of bean mixture in bottom of a 13x9-inch baking dish. Layer hamburger then cheese. Repeat with bean mixture, hamburger and cheese. Bake at 350 degrees until hot, about 30 to 40 minutes. Serve with tortilla chips. Can also top with black olives and sour cream, if desired.
+</instructions>
+</Recipe>
+<Recipe name='Guacamole'>
+<ingrdients>
+4 fresh, ripe avocados
+2 cloves garlic, minced
+Juice of 1/2 lime
+Juice of 1/2 lemon
+1 tomato, diced
+Salt and pepper to taste
+</ingredients>
+<instructions>
+Smash peeled and seeded avocadoes with fork or potato-masher. Add remaining ingredients and smash until slightly smooth.
+</instructions>
+</Recipe>
+<Recipe name='Holiday Dipped Chocolate Chip Cookies'>
+<ingrdients>
+Your favorite chocolate chip Toll House recipe or 1 (18-oz.) pkg refrigerated chocolate chip cookies
+1 cup semi-sweet chocolate chips
+1 tbs shortening
+</ingredients>
+<instructions>
+Heat oven to 350 degrees. Bake cookies as directed on package.  Cool completely.  Melt chocolate chips and shortening over very low heat or at 50% power in the microwave. Stir well. Dip half of each cookie into melted chocolate. Sprinkle with decorations before chocolate hardens. Place on wax paper to coll. Maked 3 dozen cookies.
+</instructions>
+</Recipe>

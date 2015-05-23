@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <failure>
+    <code>312</code>
+    <reason>Invalid Event UUID</reason>
+    <details></details>
+    <severity>Error</severity>
+    <dtstamp>2015-04-27 03:24:57</dtstamp>
+  </failure>
+</response>
